@@ -1,7 +1,7 @@
 # Exploratory Data Analysis: Customer-loans-in-finance
 
 ## Contents:
-    1. Project information
+    1. [Project information]
    
       1.1 Function
    
